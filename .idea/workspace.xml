@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ca7052a-7cea-4898-b4c5-9151d612db36" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000016518" />
+      <entry key="S30" value="1.0001355366820246" />
+      <entry key="S60" value="1.0165469396221973" />
+      <entry key="M2" value="1.2254198836132313" />
+      <entry key="M5" value="2.2212347977044216" />
+      <entry key="M10" value="3.196822946476807" />
+      <entry key="M15" value="3.678971802160166" />
+      <entry key="M30" value="4.27133152215273" />
+      <entry key="H1" value="4.616764385051553" />
+      <entry key="H2" value="4.803401157298009" />
+      <entry key="H4" value="4.900421808838475" />
+      <entry key="D1" value="4.983223108381562" />
+      <entry key="W1" value="4.997598841554771" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="6.810271808351585E-4" />
+      <entry key="MS500" value="0.2326124144257538" />
+      <entry key="S2" value="0.6944775678825552" />
+      <entry key="S5" value="0.8642975639166077" />
+      <entry key="S10" value="0.9296760532139778" />
+      <entry key="S30" value="0.9761197662999997" />
+      <entry key="S60" value="1.0043212356328073" />
+      <entry key="M2" value="1.2184259585987036" />
+      <entry key="M5" value="2.2169119315729766" />
+      <entry key="M10" value="3.1939493382720667" />
+      <entry key="M15" value="3.6768257769641384" />
+      <entry key="M30" value="4.270118465305496" />
+      <entry key="H1" value="4.616117325908435" />
+      <entry key="H2" value="4.803066719342402" />
+      <entry key="H4" value="4.900251759898523" />
+      <entry key="D1" value="4.9831943648216175" />
+      <entry key="W1" value="4.997594725365701" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LOLwOMgGIBFzF4nQcQSku9inHi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FirstRobotProgram.executor": "Run",
+    "Application.GlobalVariable.executor": "Run",
+    "Application.LocalVariable.executor": "Run",
+    "Application.RobotCommands.executor": "Run",
+    "Application.RobotFamily.executor": "Run",
+    "Application.RobotMain.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RobotCommands">
+    <configuration name="GlobalVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session01javabasics.GlobalVariable" />
+      <module name="FTC-Java-GitHub-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session01javabasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session01javabasics.LocalVariable" />
+      <module name="FTC-Java-GitHub-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session01javabasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotCommands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session05polymorphism.RobotCommands" />
+      <module name="FTC-Java-GitHub-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session05polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotFamily" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session04inheritance.RobotFamily" />
+      <module name="FTC-Java-GitHub-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session04inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session03classesobjects.RobotMain" />
+      <module name="FTC-Java-GitHub-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session03classesobjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RobotCommands" />
+        <item itemvalue="Application.RobotFamily" />
+        <item itemvalue="Application.RobotMain" />
+        <item itemvalue="Application.LocalVariable" />
+        <item itemvalue="Application.GlobalVariable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ca7052a-7cea-4898-b4c5-9151d612db36" name="Changes" comment="" />
+      <created>1793320407837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793320407837</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/session01javabasics/FirstRobotProgram.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
