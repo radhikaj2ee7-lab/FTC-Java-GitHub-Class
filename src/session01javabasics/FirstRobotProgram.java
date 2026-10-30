@@ -1,3 +1,5 @@
+package session01javabasics;
+
 public class FirstRobotProgram {
 
     public static void main(String[] args) {

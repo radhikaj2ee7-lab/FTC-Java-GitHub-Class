@@ -1,3 +1,5 @@
+package session01javabasics;
+
 public class GlobalVariable {
 
     // Class-level variable
