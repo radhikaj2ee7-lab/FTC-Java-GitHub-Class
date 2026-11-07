@@ -19,6 +19,7 @@ public class GlobalVariable {
     }
 
     public static void moveRobot() {
+
         System.out.println("Robot moving with battery at "
                 + batteryLevel + "%");
     }

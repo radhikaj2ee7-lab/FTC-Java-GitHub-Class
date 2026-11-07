@@ -9,6 +9,15 @@ public class AutonomousSequence {
         }
     }
 
+    // Method to print a sample message using a while loop
+    public static void printSampleMessage() {
+        int count = 0;
+        while (count < 3) {
+            System.out.println("Hello from a while loop!");
+            count++;
+        }
+    }
+
     // Method to simulate turning the robot
     public static void turnRight() {
         System.out.println("Robot turning right!");
@@ -34,6 +43,8 @@ public class AutonomousSequence {
     public static void main(String[] args) {
 
         System.out.println("=== FTC Autonomous Sequence Started ===");
+
+        printSampleMessage();
 
         int batteryLevel = 80;
 

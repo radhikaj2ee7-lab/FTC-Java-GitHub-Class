@@ -2,6 +2,7 @@ package session01javabasics;
 
 public class FirstRobotProgram {
 
+
     public static void main(String[] args) {
 
         // Welcome message
@@ -21,3 +22,4 @@ public class FirstRobotProgram {
 
     }
 }
+
