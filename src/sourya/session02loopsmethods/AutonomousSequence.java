@@ -1,50 +1,51 @@
-
+package sourya.session02loopsmethods;
 
 public class AutonomousSequence {
-    shipPosition = 300
-    enemy = 765
+    static int shipLocation = 300;
+    static int enemy = 200;
 
-    public void EnemyDistance() {
-        while enemy > shipPosition:
-            print("you are safing")
+    public static void enemyDistance() {
+        while (enemy > shipLocation) {
+            System.out.println("you are safe");
+            System.out.println("you are not safe there is an enemy");
+        }
 
-        print("NOT SAFING ENEMY HEREING")
     }
 
 
 
-    public void BatteryCheckng(int batteryLevel) {
+
+    public static void checkBattery(int batteryLevel) {
         if (batteryLevel >= 50) {
-            print("Aight you bettery lookin good keep goin");
+            System.out.println("Aight you looking good your bettery is good");
         }
-        else
-            print(" Charge the ship gang dock fast")
+        else{
+            System.out.println(" Charge the ship dock fast");
         }
     }
 
-    public void getShipCurrentPostion() {
-    shipPosition = shipPosition + 1
-            print(shipPosition)
+    public static void getShipCurrentPosition() {
+        shipLocation += 10;
+        System.out.println("placeholder");
 
     }
 
 
 
-    public void TrackPosition() {
-        for i in range(10):
-            getShipCurrentPosition()
+    public static void trackPosition() {
+        for (int i = 0; i < 76; i++){
+            getShipCurrentPosition();
 
 
-
+        }
 
 
     }
 
-    public static void main() {
-        getShipCurrentPostion()
-        BatteryCheckng()
-        EnemyDistance()
-        TrackPosition()
+    public static void main(String[] args) {
+        trackPosition();
+        checkBattery(21);
+        enemyDistance();
 
 
     }
