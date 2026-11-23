@@ -17,7 +17,7 @@ public class FirstRobotProgram {
         System.out.println("Robot is ready to move!");
 
         // End of program
-        System.out.println("Let's build something amazing!");
+        System.out.println("Let's build something cool!");
 
     }
 }
